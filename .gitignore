@@ -1,0 +1,14 @@
+﻿# Compiled Java bytecode
+out/
+*.class
+
+# Packaged JAR builds
+*.jar
+
+# Generated audit reports
+audit-report.json
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
